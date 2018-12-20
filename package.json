@@ -34,5 +34,8 @@
     "browser-sync": "2.18.13",
     "gulp": "^3.9.1",
     "gulp-clean": "^0.3.2"
+  },
+  "scripts": {
+    "start": "gulp dist && firebase deploy"
   }
 }
