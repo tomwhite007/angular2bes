@@ -1,4 +1,4 @@
-## My notes
+# My notes
 
 All:
 npm start
@@ -11,7 +11,9 @@ Delete dist folder
 gulp dist
 firebase deploy
 
-# [Start Bootstrap - Scrolling Nav](https://startbootstrap.com/template-overviews/scrolling-nav/)
+[Clean content from Google Doc](https://html-cleaner.com/)
+
+## [Start Bootstrap - Scrolling Nav](https://startbootstrap.com/template-overviews/scrolling-nav/)
 
 [Scrolling Nav](http://startbootstrap.com/template-overviews/scrolling-nav/) is an unstyled one page starter template with a collapsing, smooth scrolling navigation bar for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
@@ -64,14 +66,14 @@ You can hire Start Bootstrap to create a custom build of any template, or create
 
 Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-- https://startbootstrap.com
-- https://twitter.com/SBootstrap
+- <https://startbootstrap.com>
+- <https://twitter.com/SBootstrap>
 
 Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
-- http://davidmiller.io
-- https://twitter.com/davidmillerskt
-- https://github.com/davidtmiller
+- <http://davidmiller.io>
+- <https://twitter.com/davidmillerskt>
+- <https://github.com/davidtmiller>
 
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
